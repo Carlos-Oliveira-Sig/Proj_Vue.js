@@ -1,0 +1,31 @@
+{
+  "registros": [
+    {
+      "id": 1
+    },
+    {
+      "nome": "Carlos",
+      "telefone": "asdasd",
+      "github": "http://localhost:3000/registros",
+      "email": "asd@gmail.com",
+      "senha": "asdasd",
+      "id": 2
+    },
+    {
+      "nome": "Joao",
+      "telefone": "asdasd",
+      "github": "http://localhost30stros.com",
+      "email": "asdasdasdasd@gmail.com",
+      "senha": "asdascfacacas",
+      "id": 3
+    },
+    {
+      "nome": "Joaquim",
+      "telefone": "12 974251421",
+      "github": "http://www.joaquim45.com.br",
+      "email": "joaquim@gmail.com",
+      "senha": "sistem",
+      "id": 4
+    }
+  ]
+}
